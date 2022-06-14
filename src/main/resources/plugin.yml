@@ -1,0 +1,10 @@
+name: InventoryPlugin
+version: '${project.version}'
+main: com.afatcookie.inventoryplugin.inventoryplugin.Inventoryplugin
+api-version: 1.18
+authors: [ AFatCookie ]
+description: Full inventory notice plugin! Configure the messages to your desire, Change desired effects and more!
+commands:
+  toggleinv:
+    description: Toggles inventory messages
+    usage: /<command>

@@ -1,0 +1,11 @@
+chatmessage: false
+chatmessagelineone: " "
+chatmessagelinetwo: "&cFull Inventory!"
+chatmessagelinethree: " "
+titlemessage: true
+headtitle: "&c&nFull&r &c&nInventory!"
+subtitle: "&3&nEMPTY&r &3&nIT&r &3&nNOW"
+actionbaractivation: false
+actionbarmessage: "&c&nFull&r &c&nInventory!"
+soundtoggle: true
+soundmade: "ENTITY_PLAYER_LEVELUP"
